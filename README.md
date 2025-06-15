@@ -50,11 +50,13 @@ The Guessor Game is a simple console-based number guessing game developed using 
 
 ## 📸 Screenshot
 
-> 
+> # one player winner
 ![  one player winner ](images/one-player-winner.jpeg)
->
+
+> #  two player winner
 > ![  two player winner ](images/two-winner.jpeg)
 >
+> #  no  winner, pls try again
 > ![  no winner ](images/no-winner.jpeg)
 
 yaml
